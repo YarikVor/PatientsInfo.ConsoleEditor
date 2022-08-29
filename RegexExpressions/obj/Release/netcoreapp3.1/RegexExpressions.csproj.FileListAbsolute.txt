@@ -1,0 +1,10 @@
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\bin\Release\netcoreapp3.1\RegexExpressions.deps.json
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\bin\Release\netcoreapp3.1\RegexExpressions.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\bin\Release\netcoreapp3.1\RegexExpressions.pdb
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Release\netcoreapp3.1\RegexExpressions.csproj.AssemblyReference.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Release\netcoreapp3.1\RegexExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Release\netcoreapp3.1\RegexExpressions.AssemblyInfoInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Release\netcoreapp3.1\RegexExpressions.AssemblyInfo.cs
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Release\netcoreapp3.1\RegexExpressions.csproj.CoreCompileInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Release\netcoreapp3.1\RegexExpressions.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Release\netcoreapp3.1\RegexExpressions.pdb

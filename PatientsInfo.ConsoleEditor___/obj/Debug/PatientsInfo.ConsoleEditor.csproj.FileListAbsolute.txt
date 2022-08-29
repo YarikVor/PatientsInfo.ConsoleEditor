@@ -1,0 +1,7 @@
+C:\Users\yarik\source\repos\PatientsInfo.ConsoleEditor\PatientsInfo.ConsoleEditor\bin\Debug\PatientsInfo.ConsoleEditor.exe.config
+C:\Users\yarik\source\repos\PatientsInfo.ConsoleEditor\PatientsInfo.ConsoleEditor\bin\Debug\PatientsInfo.ConsoleEditor.exe
+C:\Users\yarik\source\repos\PatientsInfo.ConsoleEditor\PatientsInfo.ConsoleEditor\bin\Debug\PatientsInfo.ConsoleEditor.pdb
+C:\Users\yarik\source\repos\PatientsInfo.ConsoleEditor\PatientsInfo.ConsoleEditor\obj\Debug\PatientsInfo.ConsoleEditor.csproj.AssemblyReference.cache
+C:\Users\yarik\source\repos\PatientsInfo.ConsoleEditor\PatientsInfo.ConsoleEditor\obj\Debug\PatientsInfo.ConsoleEditor.csproj.CoreCompileInputs.cache
+C:\Users\yarik\source\repos\PatientsInfo.ConsoleEditor\PatientsInfo.ConsoleEditor\obj\Debug\PatientsInfo.ConsoleEditor.exe
+C:\Users\yarik\source\repos\PatientsInfo.ConsoleEditor\PatientsInfo.ConsoleEditor\obj\Debug\PatientsInfo.ConsoleEditor.pdb

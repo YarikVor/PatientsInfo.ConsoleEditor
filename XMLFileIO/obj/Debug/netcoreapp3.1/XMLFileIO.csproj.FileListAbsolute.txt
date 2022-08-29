@@ -1,0 +1,15 @@
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\obj\Debug\netcoreapp3.1\XMLFileIO.csproj.AssemblyReference.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\obj\Debug\netcoreapp3.1\XMLFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\obj\Debug\netcoreapp3.1\XMLFileIO.AssemblyInfoInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\obj\Debug\netcoreapp3.1\XMLFileIO.AssemblyInfo.cs
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\obj\Debug\netcoreapp3.1\XMLFileIO.csproj.CoreCompileInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\bin\Debug\netcoreapp3.1\XMLFileIO.deps.json
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\bin\Debug\netcoreapp3.1\XMLFileIO.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\bin\Debug\netcoreapp3.1\XMLFileIO.pdb
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\bin\Debug\netcoreapp3.1\PatientsInfo.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\bin\Debug\netcoreapp3.1\PatientsInfo.pdb
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\obj\Debug\netcoreapp3.1\XMLFileIO.csproj.CopyComplete
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\obj\Debug\netcoreapp3.1\XMLFileIO.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\XMLFileIO\obj\Debug\netcoreapp3.1\XMLFileIO.pdb

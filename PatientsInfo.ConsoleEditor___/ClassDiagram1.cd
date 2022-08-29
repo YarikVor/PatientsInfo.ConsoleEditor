@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PatientsInfo.ConsoleEditor.ConsoleIO.Entering">
+    <Position X="13.75" Y="9.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAgAAAACACAAAABAAAAAAAAAACAAAAAE=</HashCode>
+      <FileName>ConsoleIO\Entering.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.ConsoleIO.Setting">
+    <Position X="2.25" Y="1.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConsoleIO\Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Data.DataContext">
+    <Position X="4.75" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAIAAAAAEAACAAIAAAAgAAAAABAAAAABABAI=</HashCode>
+      <FileName>Data\DataContext.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataSet" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Diseases" />
+      <Property Name="Patients" />
+      <Property Name="People" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Data.DataSet">
+    <Position X="0.5" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAACAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataSet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Diseases" />
+      <Property Name="Patients" />
+      <Property Name="People" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Editor.Editor">
+    <Position X="12.5" Y="1.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CAAAAxAAAAAAQAJAAAAIGYAAQkCEAAAACAAGgIAAgEo=</HashCode>
+      <FileName>Editor\Commands.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="commandsInfo" />
+      <Field Name="dataContext" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="sortingDiseases" />
+      <Field Name="sortingPatients" />
+      <Field Name="sortingPeople" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Entities.Disease">
+    <Position X="18.75" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAAAAAQAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Entities\Diseases.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Entities.Enum">
+    <Position X="18.5" Y="9.25" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="PatientsInfo.ConsoleEditor.Entities.Enum.Gender">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Enum.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="PatientsInfo.ConsoleEditor.Entities.Enum.HealthStatus">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Enum.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAQAAAAAAAAAAAAAAAAAABAIAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Enum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Entities.Patient">
+    <Position X="18.25" Y="5.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAAAQEAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Patient.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="disease" />
+      <Field Name="Person" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Methods.Enumerable">
+    <Position X="13.75" Y="13" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Methods\Enumerable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Program">
+    <Position X="9.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataContext" />
+      <Field Name="editor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.RegexExpressions">
+    <Position X="3.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAAAAAAEAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RegexExpressions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatientsInfo.ConsoleEditor.Entities.Person">
+    <Position X="0.5" Y="9.25" Width="13" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABEAwCAAICEAAAAQAAAAQAAAAAAAIAIAAAAACA=</HashCode>
+      <FileName>Entities\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PatientsInfo.ConsoleEditor.Editor.CommandInfo">
+    <Position X="8" Y="5.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Editor\CommandInfo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="command" />
+    </ShowAsAssociation>
+  </Struct>
+  <Delegate Name="PatientsInfo.ConsoleEditor.Editor.Command">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Editor\CommandInfo.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

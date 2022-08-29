@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "XMLFileIO/1.0.0": {
+        "dependencies": {
+          "PatientsInfo": "1.0.0"
+        },
+        "runtime": {
+          "XMLFileIO.dll": {}
+        }
+      },
+      "Methods/1.0.0": {
+        "runtime": {
+          "Methods.dll": {}
+        }
+      },
+      "PatientsInfo/1.0.0": {
+        "dependencies": {
+          "Methods": "1.0.0"
+        },
+        "runtime": {
+          "PatientsInfo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XMLFileIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PatientsInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

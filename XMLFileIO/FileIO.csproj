@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="JSON\JSONCustomSettings.cs" />
+    <Compile Remove="JSON\ServiceProviderImpl.cs" />
+    <Compile Remove="JSON\TransferJsonConverterFactory.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PatientsInfo\PatientsInfo.csproj" />
+  </ItemGroup>
+
+</Project>

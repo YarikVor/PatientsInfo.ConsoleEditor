@@ -1,0 +1,15 @@
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\bin\Debug\netcoreapp3.1\ConsoleFormat.deps.json
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\bin\Debug\netcoreapp3.1\ConsoleFormat.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\bin\Debug\netcoreapp3.1\ConsoleFormat.pdb
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\bin\Debug\netcoreapp3.1\PatientsInfo.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\bin\Debug\netcoreapp3.1\PatientsInfo.pdb
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\obj\Debug\netcoreapp3.1\ConsoleFormat.csproj.AssemblyReference.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\obj\Debug\netcoreapp3.1\ConsoleFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\obj\Debug\netcoreapp3.1\ConsoleFormat.AssemblyInfoInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\obj\Debug\netcoreapp3.1\ConsoleFormat.AssemblyInfo.cs
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\obj\Debug\netcoreapp3.1\ConsoleFormat.csproj.CoreCompileInputs.cache
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\obj\Debug\netcoreapp3.1\ConsoleFormat.csproj.CopyComplete
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\obj\Debug\netcoreapp3.1\ConsoleFormat.dll
+C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleFormat\obj\Debug\netcoreapp3.1\ConsoleFormat.pdb
