@@ -1,0 +1,13 @@
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\bin\Debug\netcoreapp3.1\PatientsInfo.deps.json
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\bin\Debug\netcoreapp3.1\PatientsInfo.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\bin\Debug\netcoreapp3.1\PatientsInfo.pdb
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\bin\Debug\netcoreapp3.1\Methods.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\bin\Debug\netcoreapp3.1\Methods.pdb
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\obj\Debug\netcoreapp3.1\PatientsInfo.csproj.AssemblyReference.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\obj\Debug\netcoreapp3.1\PatientsInfo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\obj\Debug\netcoreapp3.1\PatientsInfo.AssemblyInfoInputs.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\obj\Debug\netcoreapp3.1\PatientsInfo.AssemblyInfo.cs
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\obj\Debug\netcoreapp3.1\PatientsInfo.csproj.CoreCompileInputs.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\obj\Debug\netcoreapp3.1\PatientsInfo.csproj.CopyComplete
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\obj\Debug\netcoreapp3.1\PatientsInfo.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\PatientsInfo\obj\Debug\netcoreapp3.1\PatientsInfo.pdb

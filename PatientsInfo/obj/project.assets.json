@@ -27,20 +27,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yarik\\.nuget\\packages\\": {}
+    "C:\\Users\\Ярик\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj",
+      "projectUniqueName": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj",
       "projectName": "PatientsInfo",
-      "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj",
-      "packagesPath": "C:\\Users\\yarik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\obj\\",
+      "projectPath": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj",
+      "packagesPath": "C:\\Users\\Ярик\\.nuget\\packages\\",
+      "outputPath": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Ярик\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -53,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\Methods\\Methods.csproj": {
-              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\Methods\\Methods.csproj"
+            "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\Methods\\Methods.csproj": {
+              "projectPath": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\Methods\\Methods.csproj"
             }
           }
         }
@@ -83,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }

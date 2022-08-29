@@ -18,3 +18,13 @@ C:\Users\yarik\Desktop\Програмування\практична4\проек
 C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.csproj.CoreCompileInputs.cache
 C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.dll
 C:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.pdb
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\bin\Debug\netcoreapp3.1\RegexExpressions.deps.json
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\bin\Debug\netcoreapp3.1\RegexExpressions.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\bin\Debug\netcoreapp3.1\RegexExpressions.pdb
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.csproj.AssemblyReference.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.AssemblyInfoInputs.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.AssemblyInfo.cs
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.csproj.CoreCompileInputs.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\RegexExpressions\obj\Debug\netcoreapp3.1\RegexExpressions.pdb

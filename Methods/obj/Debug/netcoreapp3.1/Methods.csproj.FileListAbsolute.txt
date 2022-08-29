@@ -18,3 +18,13 @@ C:\Users\yarik\Desktop\Програмування\практична4\проек
 C:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.dll
 C:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
 C:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.AssemblyReference.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.AssemblyReference.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\Methods\obj\Debug\netcoreapp3.1\Methods.pdb

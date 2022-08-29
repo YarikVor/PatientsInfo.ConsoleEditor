@@ -8,3 +8,13 @@ C:\Users\yarik\Desktop\Програмування\практична4\проек
 C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.csproj.CoreCompileInputs.cache
 C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.dll
 C:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.pdb
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.deps.json
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.pdb
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.csproj.AssemblyReference.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.AssemblyInfoInputs.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.AssemblyInfo.cs
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.csproj.CoreCompileInputs.cache
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.dll
+F:\Users\yarik\Desktop\Програмування\практична4\проект\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.pdb

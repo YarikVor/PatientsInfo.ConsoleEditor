@@ -136,20 +136,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yarik\\.nuget\\packages\\": {}
+    "C:\\Users\\Ярик\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo.ConsoleEditor\\PatientsInfo.ConsoleEditor.csproj",
+      "projectUniqueName": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo.ConsoleEditor\\PatientsInfo.ConsoleEditor.csproj",
       "projectName": "PatientsInfo.ConsoleEditor",
-      "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo.ConsoleEditor\\PatientsInfo.ConsoleEditor.csproj",
-      "packagesPath": "C:\\Users\\yarik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo.ConsoleEditor\\obj\\",
+      "projectPath": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo.ConsoleEditor\\PatientsInfo.ConsoleEditor.csproj",
+      "packagesPath": "C:\\Users\\Ярик\\.nuget\\packages\\",
+      "outputPath": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo.ConsoleEditor\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Ярик\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -162,14 +167,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleEditor\\ConsoleEditor.csproj": {
-              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleEditor\\ConsoleEditor.csproj"
+            "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleEditor\\ConsoleEditor.csproj": {
+              "projectPath": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleEditor\\ConsoleEditor.csproj"
             },
-            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleIO\\ConsoleIO.csproj": {
-              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleIO\\ConsoleIO.csproj"
+            "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleIO\\ConsoleIO.csproj": {
+              "projectPath": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\ConsoleIO\\ConsoleIO.csproj"
             },
-            "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj": {
-              "projectPath": "C:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj"
+            "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj": {
+              "projectPath": "F:\\Users\\yarik\\Desktop\\Програмування\\практична4\\проект\\PatientsInfo\\PatientsInfo.csproj"
             }
           }
         }
@@ -198,7 +203,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
   }
